@@ -1,5 +1,6 @@
 import { Telegraf } from 'telegraf';
-import fs from 'fs';
+import fs from "node:fs";
+
 
 const bot = new Telegraf('8060917920:AAHgpKCLeHpkAOWuzSIF2Y4Rv2TD-M4JD58');
 
